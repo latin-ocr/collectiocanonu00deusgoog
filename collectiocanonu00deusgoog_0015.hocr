@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./collectiocanonu00deusgoog_0015.png"; bbox 0 0 3608 5498; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 444 4334 1605 4400">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 444 4334 1605 4400">
+     <span class='ocr_line' id='line_1_1' title="bbox 444 4334 1605 4400; baseline 0.003 -15"><span class='ocrx_word' id='word_1_1' title='bbox 444 4334 555 4398; x_wconf 69' lang='lat' dir='ltr'>nulum</span> <span class='ocrx_word' id='word_1_2' title='bbox 572 4334 660 4399; x_wconf 68' lang='lat' dir='ltr'>operis</span> <span class='ocrx_word' id='word_1_3' title='bbox 678 4335 818 4386; x_wconf 75' lang='lat' dir='ltr'>edluonem</span> <span class='ocrx_word' id='word_1_4' title='bbox 838 4335 981 4388; x_wconf 67' lang='lat' dir='ltr'>Aemiliana</span> <span class='ocrx_word' id='word_1_5' title='bbox 998 4334 1182 4400; x_wconf 70' lang='lat' dir='ltr'><strong>Typognphla</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1200 4335 1251 4385; x_wconf 69' lang='grc' dir='ltr'>εΙὺΙ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1274 4335 1319 4386; x_wconf 75' lang='lat' dir='ltr'><strong>un!</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1338 4335 1470 4398; x_wconf 69' lang='lat' dir='ltr'><strong>propriam</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1489 4336 1605 4390; x_wconf 70' lang='lat' dir='ltr'><strong>vindieat</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 602 4445 1440 4510">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 602 4445 1440 4510">
+     <span class='ocr_line' id='line_1_2' title="bbox 602 4445 1440 4510; baseline -0.002 -14"><span class='ocrx_word' id='word_1_10' title='bbox 602 4447 637 4496; x_wconf 83' lang='lat' dir='ltr'><strong>ob</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 657 4450 730 4510; x_wconf 75' lang='lat' dir='ltr'><strong>pacta</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 747 4451 878 4496; x_wconf 67' lang='lat' dir='ltr'><strong>convenia</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 897 4445 966 4496; x_wconf 75' lang='grc' dir='ltr'><strong>ΙηΙει·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 984 4451 1099 4508; x_wconf 72' lang='lat' dir='ltr'>Europae</span> <span class='ocrx_word' id='word_1_15' title='bbox 1117 4448 1209 4508; x_wconf 70' lang='lat' dir='ltr'>gentes</span> <span class='ocrx_word' id='word_1_16' title='bbox 1227 4445 1260 4496; x_wconf 83' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1279 4459 1307 4496; x_wconf 77' lang='lat' dir='ltr'><strong>re</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1326 4445 1440 4496; x_wconf 68' lang='lat' dir='ltr'>nnn-arta.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1808 5498">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1808 5498">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1808 5498; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1808 5498; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
